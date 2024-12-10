@@ -1,5 +1,3 @@
-# FinalTerm1_NMo87924
-
 An Android application built using **Android Studio** for managing a diary app with features like user settings, login, diary input, date-based browsing, animations, and web navigation.
 
 ## Features
@@ -48,7 +46,7 @@ An Android application built using **Android Studio** for managing a diary app w
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/finalterm1_nmo87924.git
+   git clone https://github.com/Epi-Nabeel/managing-diary.git
    ```
 2. **Open in Android Studio**
    - Launch Android Studio and open the project directory.
@@ -69,11 +67,11 @@ An Android application built using **Android Studio** for managing a diary app w
 ## File Structure
 
 ```
-FinalTerm1_NMo87924/
+*********/
 ├── app/
 │   ├── src/
 │   │   ├── main/
-│   │   │   ├── java/com/example/finalterm1_nmo87924/
+│   │   │   ├── java/com/example/*********/
 │   │   │   │   ├── MainActivity.java
 │   │   │   │   ├── SettingsActivity.java
 │   │   │   │   ├── LoginActivity.java
@@ -114,17 +112,17 @@ FinalTerm1_NMo87924/
 ### Login Screen
 *Displays the username and today's date.*
 
-![Login Screen](path_to_screenshot.png)
+![Login Screen](https://github.com/Epi-Nabeel/managing-diary/blob/main/pics/Screenshot%202024-12-09%20230953.png)
 
 ### Welcome Animation
 *Plays an animation and displays app usage time.*
 
-![Welcome Animation](path_to_screenshot.png)
+![Welcome Animation](https://github.com/Epi-Nabeel/managing-diary/blob/main/pics/Screenshot%202024-12-09%20231120.png)
 
 ### Diary Input
 *Save or edit diary entries for the day.*
 
-![Diary Input](path_to_screenshot.png)
+![Diary Input](https://github.com/Epi-Nabeel/managing-diary/blob/main/pics/Screenshot%202024-12-09%20231133.png)
 
 ---
 
